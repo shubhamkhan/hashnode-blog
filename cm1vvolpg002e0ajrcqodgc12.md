@@ -5,7 +5,7 @@ seoDescription: "Two effective techniques, debouncing and throttling. These meth
 datePublished: Sat Oct 05 2024 08:14:19 GMT+0000 (Coordinated Universal Time)
 cuid: cm1vvolpg002e0ajrcqodgc12
 slug: debounce-vs-throttle
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728162497667/72be0834-a365-481b-880e-32f1a554dfde.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1729102283540/2fed1ce8-ae84-48e5-9e9d-f4d8f0e70aca.webp
 tags: optimization, javascript, apis, reactjs, javascript-framework, debouncing, throttling, function-calling, debouncing-and-throttling
 
 ---
